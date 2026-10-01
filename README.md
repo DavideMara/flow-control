@@ -1,6 +1,6 @@
-# Flow-Control Project - Networking Course (UniCan, Santander)
+# Flow-Control
 
-This project implements a reliable data transfer protocol over a simulated network link using a **Stop-and-Wait** mechanism.
+This repository tries implements a reliable data transfer protocol over a simulated network link using a **Stop-and-Wait** mechanism.
 
 ## Project Overview
 
